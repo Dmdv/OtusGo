@@ -1,4 +1,4 @@
-module github.com/Dmdv/otusgo/hw01_hello_otus
+module github.com/dmdv/hw01_hello_otus
 
 go 1.15
 
