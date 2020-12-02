@@ -1,4 +1,4 @@
-package main
+package hw01_hello_otus
 
 import (
 	"fmt"
