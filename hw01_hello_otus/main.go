@@ -7,9 +7,9 @@ import (
 )
 
 const (
-	Message = "Hello, OTUS!"
+	message = "Hello, OTUS!"
 )
 
 func main() {
-	fmt.Println(stringutil.Reverse(Message))
+	fmt.Println(stringutil.Reverse(message))
 }
